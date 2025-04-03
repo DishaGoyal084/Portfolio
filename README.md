@@ -6,8 +6,6 @@ Welcome to my personal **portfolio website**, built using **React.js**! This pro
 ## **🛠️ Technologies Used**  
 - **Frontend**: React.js, HTML, CSS, JavaScript  
 - **UI Components**: React Icons, Bootstrap  
-- **Backend (if applicable)**: Node.js, Express.js  
-- **Database (if applicable)**: MongoDB  
 - **Deployment**: Vercel  
 
 ## **📌 Features**  
