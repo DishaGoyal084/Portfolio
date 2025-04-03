@@ -17,10 +17,6 @@ Welcome to my personal **portfolio website**, built using **React.js**! This pro
 ✅ **Skills** – Tech stack icons for quick reference  
 ✅ **Resume** – Downloadable CV  
 ✅ **Contact** – Ways to reach out to me  
-
-## **📷 Screenshots**  
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Preview)  
-
 ## **🚀 How to Run Locally**  
 1. **Clone the Repository**  
    ```sh
